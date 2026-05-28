@@ -44,7 +44,7 @@ services:
       - PROVIDER=chatgpt
 
       # ChatGPT
-      - CHATGPT_URL=https://chatgpt.com
+      - CHATGPT_URL=https://chatgpt.com/?temporary-chat=true
 
       # Claude
       - CLAUDE_URL=https://claude.ai
